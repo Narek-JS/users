@@ -1,0 +1,27 @@
+
+
+.user{
+    width: 290px;
+    height: 300px;
+    margin: 12px;
+    display: inline-block;
+    background: #FFFFFF;
+}
+
+.userImg{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.name{
+    color: chartreuse;
+}
+
+.username{
+    color: darkblue;
+}
+
+.button{
+    background-color: darkorchid;
+}
